@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的灵修资源站'
+theme = 'book'
+
+[params]
+  # 开启搜索功能
+  BookSearchConfig = { 'indexed' = true }
